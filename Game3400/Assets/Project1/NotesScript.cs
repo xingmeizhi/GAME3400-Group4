@@ -28,56 +28,59 @@ public class NotesScript : MonoBehaviour
         text = " ";
     }
 
-    // Script's kind of broken??? Only matches work on my end
-    // Anyways it's supposed to find the distance between player and object they want to collect
+    // Find the distance between player and object they want to collect
     // If they haven't collected it, then "collect" by updating text
     // If they've already collected it - do nothing (this is controlled by the booleans)
     void Update()
     {
-        if (Vector3.Distance(player.transform.position, transform.position) < 1.25) {
-            Debug.Log("Notebook found!");
+        if (Vector3.Distance(player.transform.position, transform.position) < 1.5) {
             if (notebookFound == false) {
                 notebookFound = true;
                 itemsFound++;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
+                text = newHint();
             }
         }
 
-        if (Vector3.Distance(player.transform.position, blankets.transform.position) < 2) {
-            Debug.Log("Blankets found!");
-            if (blanketsFound == false) {
-                blanketsFound = true;
-                itemsFound++;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
-            }
-        }
 
-        if (Vector3.Distance(player.transform.position, blankets2.transform.position) < 2) {
-            Debug.Log("Blankets found!");
-            if (blanketsFound == false) {
-                blanketsFound = true;
-                itemsFound++;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
+        if (notebookFound) {
+            if (Vector3.Distance(player.transform.position, blankets.transform.position) < 2
+            || Vector3.Distance(player.transform.position, blankets2.transform.position) < 2) {
+                if (blanketsFound == false) {
+                    blanketsFound = true;
+                    itemsFound++;
+                    text = newHint();
+                }
             }
-        }
 
-        if (Vector3.Distance(player.transform.position, matches.transform.position) < 1) {
-            Debug.Log("Matches found!");
-            if (matchesFound == false) {
-                matchesFound = true;
-                itemsFound++;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
+            if (Vector3.Distance(player.transform.position, matches.transform.position) < 1) {
+                if (matchesFound == false) {
+                    matchesFound = true;
+                    itemsFound++;
+                    text = newHint();
+                }
             }
-        }
 
-        if (Vector3.Distance(player.transform.position, wood.transform.position) < 1.5) {
-            Debug.Log("Wood found!");
-            if (woodFound == false) {
-                woodFound = true;
-                itemsFound++;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
+            if (Vector3.Distance(player.transform.position, wood.transform.position) < 1.5) {
+                if (woodFound == false) {
+                    woodFound = true;
+                    itemsFound++;
+                    text = newHint();
+                }
             }
         }
+    }
+
+    string newHint() {
+        if (itemsFound == 4) {
+            return "Congrats! You've found all the items. \n \n 4/4";
+        } else if (!woodFound) {
+            return "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
+        } else if (!blanketsFound) {
+            return "Too lazy to make my bed properly today. \n \n " + itemsFound + " / " + totalItems;
+        } else {
+            return "Left the matches out after lighting the birthday cake candles. I should buy more cake. \n \n " + itemsFound + " / " + totalItems;
+        }
+        return " ";
     }
 
     void OnGUI() {
