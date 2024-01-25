@@ -34,15 +34,17 @@ public class NotesScript : MonoBehaviour
     // If they've already collected it - do nothing (this is controlled by the booleans)
     void Update()
     {
-        if (Vector3.Distance(player.transform.position, transform.position) < 1) {
+        if (Vector3.Distance(player.transform.position, transform.position) < 1.25) {
+            Debug.Log("Notebook found!");
             if (notebookFound == false) {
                 notebookFound = true;
-                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
                 itemsFound++;
+                text = "To do: restock wood in backroom. \n \n " + itemsFound + " / " + totalItems;
             }
         }
 
-        if (Vector3.Distance(player.transform.position, blankets.transform.position) < 1) {
+        if (Vector3.Distance(player.transform.position, blankets.transform.position) < 2) {
+            Debug.Log("Blankets found!");
             if (blanketsFound == false) {
                 blanketsFound = true;
                 itemsFound++;
@@ -50,7 +52,8 @@ public class NotesScript : MonoBehaviour
             }
         }
 
-        if (Vector3.Distance(player.transform.position, blankets2.transform.position) < 1) {
+        if (Vector3.Distance(player.transform.position, blankets2.transform.position) < 2) {
+            Debug.Log("Blankets found!");
             if (blanketsFound == false) {
                 blanketsFound = true;
                 itemsFound++;
@@ -59,6 +62,7 @@ public class NotesScript : MonoBehaviour
         }
 
         if (Vector3.Distance(player.transform.position, matches.transform.position) < 1) {
+            Debug.Log("Matches found!");
             if (matchesFound == false) {
                 matchesFound = true;
                 itemsFound++;
@@ -66,7 +70,8 @@ public class NotesScript : MonoBehaviour
             }
         }
 
-        if (Vector3.Distance(player.transform.position, wood.transform.position) < 1) {
+        if (Vector3.Distance(player.transform.position, wood.transform.position) < 1.5) {
+            Debug.Log("Wood found!");
             if (woodFound == false) {
                 woodFound = true;
                 itemsFound++;
