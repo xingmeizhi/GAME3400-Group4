@@ -362,3 +362,79 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 180.277585 seconds.
+  path: Assets/Project2/Texture/Fabric001_8K_Color.jpg
+  artifactKey: Guid(48d4884ebf4fe4719be2e00d8fabb602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric001_8K_Color.jpg using Guid(48d4884ebf4fe4719be2e00d8fabb602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde6c1a65a191c1387e96c8e75ecd60f') in 0.050984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.646635 seconds.
+  path: Assets/Project2/Texture/Fabric001.png
+  artifactKey: Guid(1875d1a1eb68e4f4e8239b569a00558e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric001.png using Guid(1875d1a1eb68e4f4e8239b569a00558e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c2c8997bd4329ac8162dba15b4ed1f') in 0.005589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 105.152477 seconds.
+  path: Assets/Project2/Texture/Fabric019.png
+  artifactKey: Guid(e4e94b47de44344ac93d4a0e373ec996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric019.png using Guid(e4e94b47de44344ac93d4a0e373ec996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a57a5261e6761b2705dfcee9f364ec') in 0.005003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.935167 seconds.
+  path: Assets/Project2/Texture/Materials/Fabric001.mat
+  artifactKey: Guid(67bd43f2f422d4563bf17f032ae1a66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Fabric001.mat using Guid(67bd43f2f422d4563bf17f032ae1a66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897483b34b0b6c6fa77122cda94c6f87') in 0.031259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Color.mat
+  artifactKey: Guid(bdd857a126f9e44dbaebcc84f8cfcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Color.mat using Guid(bdd857a126f9e44dbaebcc84f8cfcb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cbb9de104fd534832f048124ee83df8') in 0.004503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Displacement.mat
+  artifactKey: Guid(eb0a6ca5d9361444b81edddbe04c6bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Displacement.mat using Guid(eb0a6ca5d9361444b81edddbe04c6bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db22875a384281290cd10bf2d8ecf129') in 0.004506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Roughness.mat
+  artifactKey: Guid(149eb6739caa848dd87e1ad08a717ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_Roughness.mat using Guid(149eb6739caa848dd87e1ad08a717ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5838cc3b4a370f328804179d8399ed79') in 0.006028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_NormalGL.mat
+  artifactKey: Guid(ab15235fd8dce4a9696f4835905681c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_NormalGL.mat using Guid(ab15235fd8dce4a9696f4835905681c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71584c42884a00a47c5ef135009beae') in 0.003935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_NormalDX.mat
+  artifactKey: Guid(c1b134a7cff7c463dbe691f33ba070a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B_4K-PNG_NormalDX.mat using Guid(c1b134a7cff7c463dbe691f33ba070a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345508581014ffce92daaf9ee13beaf0') in 0.003812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 89, details: Operation aborted.
+AssetImportWorker is now disconnected from the server
+Process exiting

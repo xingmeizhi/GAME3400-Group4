@@ -490,3 +490,233 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3306.703152 seconds.
+  path: Assets/Project2/Texture/Materials/Fabric001_8K_Color.mat
+  artifactKey: Guid(2b3c53bf2f79c4fa98be9d6aa61fe492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Fabric001_8K_Color.mat using Guid(2b3c53bf2f79c4fa98be9d6aa61fe492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98661e384533e07b75dd581421ad01fa') in 0.068289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 73.658653 seconds.
+  path: Assets/Project2/Texture/Fabric058.png
+  artifactKey: Guid(4d889c607646f4ec0be955b8601252ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric058.png using Guid(4d889c607646f4ec0be955b8601252ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e943a182bdbe0238e0dae6b7ae4b996') in 0.009941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 119.294230 seconds.
+  path: Assets/Project2/Texture/Materials/Fabric019.mat
+  artifactKey: Guid(6a4db81b5d7d8430e9e2c331aa20e0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Fabric019.mat using Guid(6a4db81b5d7d8430e9e2c331aa20e0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52478662b09f11ee789a4706c706c066') in 0.011511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015B.mat
+  artifactKey: Guid(456026755c8354e1b97cc573323a834e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015B.mat using Guid(456026755c8354e1b97cc573323a834e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b4f80b03f3c1e96c0344e39766a8dd') in 0.004911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 42.310646 seconds.
+  path: Assets/Project2/Texture/Materials/Plastic015A_4K-PNG_Color.png
+  artifactKey: Guid(9935800875d2e440c9cee9c1e4cf85a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Plastic015A_4K-PNG_Color.png using Guid(9935800875d2e440c9cee9c1e4cf85a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc52b7796229cf4c21f8b4e9b6e26222') in 0.005373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.050477 seconds.
+  path: Assets/Project2/Texture/Materials/Materials
+  artifactKey: Guid(1a5182b6a5c534664b8771a57001d789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Materials using Guid(1a5182b6a5c534664b8771a57001d789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93b527f0749a82d6582fe1ba69b1958') in 0.001204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.049528 seconds.
+  path: Assets/Project2/Texture/Materials/Materials/Plastic015A_4K-PNG_Color.mat
+  artifactKey: Guid(3ae2456d490624dae9c8ae333d3b5ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Materials/Plastic015A_4K-PNG_Color.mat using Guid(3ae2456d490624dae9c8ae333d3b5ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ffd8e58c700e33427187d6189bf95e') in 0.009180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 30.136565 seconds.
+  path: Assets/Project2/Texture/Fabric058_4K-PNG_Color.png
+  artifactKey: Guid(7b9d0adb67ffd4f31979f602326b3d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric058_4K-PNG_Color.png using Guid(7b9d0adb67ffd4f31979f602326b3d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00a1c6e7a198e9a3dba076276aae8d6') in 0.021387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.449281 seconds.
+  path: Assets/Project2/Texture/Fabric019_4K-PNG_Color.png
+  artifactKey: Guid(44b7f95c9aaf240fdb8d7ccb7746c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric019_4K-PNG_Color.png using Guid(44b7f95c9aaf240fdb8d7ccb7746c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0694be13698184aa7a243ad78cba8ab9') in 0.006004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be13000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.272 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.765 seconds
+Domain Reload Profiling: 1037ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (136ms)
+		LoadAssemblies (153ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (765ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (301ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (252ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3458 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (56.1 KB). Loaded Objects now: 4006.
+Memory consumption went from 160.0 MB to 160.0 MB.
+Total: 2.649875 ms (FindLiveObjects: 0.131667 ms CreateObjectMapping: 0.043167 ms MarkObjects: 2.409541 ms  DeleteObjects: 0.064916 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16be13000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.236 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.747 seconds
+Domain Reload Profiling: 982ms
+	BeginReloadAssembly (79ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (12ms)
+	LoadAllAssembliesAndSetupDomain (116ms)
+		LoadAssemblies (132ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (747ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (297ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (32ms)
+			ProcessInitializeOnLoadAttributes (249ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3458 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (56.1 KB). Loaded Objects now: 4009.
+Memory consumption went from 168.2 MB to 168.2 MB.
+Total: 2.594708 ms (FindLiveObjects: 0.132417 ms CreateObjectMapping: 0.042792 ms MarkObjects: 2.352625 ms  DeleteObjects: 0.066125 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 128.037112 seconds.
+  path: Assets/Project2/Texture/Fabric029_4K-PNG_Color.png
+  artifactKey: Guid(91d38c794b3db4ac399915bf57a214c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Fabric029_4K-PNG_Color.png using Guid(91d38c794b3db4ac399915bf57a214c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '994548c406e4a5044612e59c93dba2f7') in 0.038062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 37.218558 seconds.
+  path: Assets/Project2/Texture/Materials/Fabric019_4K-PNG_Color.mat
+  artifactKey: Guid(7209a529f8f994e82a1b2abaa54b7e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Fabric019_4K-PNG_Color.mat using Guid(7209a529f8f994e82a1b2abaa54b7e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b025558352d04d953642e72112c200cf') in 0.032684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Project2/Texture/Materials/Fabric058_4K-PNG_Color.mat
+  artifactKey: Guid(8305d5a181ae94655a47c43a541e3c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project2/Texture/Materials/Fabric058_4K-PNG_Color.mat using Guid(8305d5a181ae94655a47c43a541e3c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9641d0166738a8cd616cab86e2fb3ce1') in 0.006616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
