@@ -342,6 +342,9 @@
 "Assets/Project1/NotesScript.cs"
 "Assets/Project1/Script/MouseLook.cs"
 "Assets/Project1/Script/PlayerController.cs"
+"Assets/Project2/Script/CameraZoom.cs"
+"Assets/Project2/Script/MouseMove.cs"
+"Assets/Project2/Script/PlayerController2.cs"
 -langversion:9.0
 
 /deterministic

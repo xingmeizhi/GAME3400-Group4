@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public float jumpHeight = 0.3f;
     public float maxJumpHeight = 1f;
     public float airControl = 1f;
-
+    public CameraZoom cameraZoom;
     private float jumpPressDuration = 0f;
     private bool isPreparingToJump = false;
 
@@ -23,6 +23,10 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (cameraZoom != null && !cameraZoom.IsAtStartPosition)
+        {
+            return;
+        }
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
