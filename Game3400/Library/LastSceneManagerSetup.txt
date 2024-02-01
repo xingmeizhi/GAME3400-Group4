@@ -1,9 +1,0 @@
-sceneSetups:
-- path: Assets/Project1/Project1 Scene.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Project2/Project2 Scene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
